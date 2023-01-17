@@ -1,0 +1,56 @@
+*{
+  margin: 40;
+  padding: 0;
+}
+
+body{
+  background-color: thistle;
+  text-align: center;
+
+
+}
+
+h1{
+  font-size: 50px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#game{
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  height: 600px;
+  text-align: center;
+}
+
+.btn{
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-width: 10px;
+  margin: auto;
+  border-radius: 15%;
+}
+
+#green{
+  background-color: green;
+}
+
+#red{
+  background-color: red;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#blue{
+  background-color: blue;
+}
+
+.select{
+  color: black;
+  border-radius: 50%;
+  
+
+}
